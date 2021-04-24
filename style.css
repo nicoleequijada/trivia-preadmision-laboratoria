@@ -1,0 +1,144 @@
+.img-header{
+width: 100%;
+height: 220px;
+border-bottom: 2px solid palevioletred;
+
+}h2{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.intro{
+  text-align: center;
+}
+
+.body{
+  background-color: #f5f2f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.seleccions{
+overflow: hidden;
+padding: 16px;
+display: flex;
+align-items: center;
+
+
+}
+items{
+  border: 2px solid black;
+  width: 100%;
+  float: left;
+
+  
+}
+
+#seleccion-1{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  width: 50%;
+  margin-right: 10px;
+}
+
+#seleccion-2{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  width: 50%;
+}
+
+h4{
+  text-align: center;
+}
+.img-mujer{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  
+}
+.img-travel{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+ 
+}
+.btn{
+  width: 80px;
+  height: auto;
+  background-color: #25c708;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  
+}
+
+.btn:hover{
+  text-decoration:none;
+  color:#1f8a0c;
+  cursor:pointer;
+}
+
+.container{
+overflow: hidden;
+padding: 16px;
+display: flex;
+align-items: center;
+}
+
+
+.btn-questions{
+border: 1px solid black;
+width: 100%;
+float: left;
+border-radius: 20%;
+margin: 10px;
+} 
+
+.btn-questions:hover{
+  text-decoration:none;
+  color:#1f8a0c;
+  cursor:pointer;
+}
+
+.img-fuegos{
+  width: 250px;
+  height: 250px;
+}
+
+.img-triste{
+  width: 0.5px;
+  height: 0.5px;
+}
+
+.img-feliz{
+  width: 300px;
+  height: 300px;
+  float: right;
+}
+
+.hide{
+  display:none;
+}
+
+#boton{
+  background-color: #2ded07;
+}
+
+#btn-1{
+  background-color: #ff7d7d;
+}
+.play-again{
+  text-align: center;
+}
+.resultado{
+  text-align: center;
+}
